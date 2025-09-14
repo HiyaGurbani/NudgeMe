@@ -1,0 +1,14 @@
+spring.application.name=Nudgeme
+spring.datasource.url=jdbc:postgresql://localhost:5432/NudgeMe
+spring.datasource.username=YOUR_DB_USER
+spring.datasource.password=YOUR_DB_PASS
+
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=YOUR_EMAIL
+spring.mail.password=YOUR_APP_PASSWORD
+
+gemini.api.key=YOUR_GEMINI_API_KEY
+cloudinary.cloud_name=YOUR_CLOUD_NAME
+cloudinary.api_key=YOUR_CLOUD_KEY
+cloudinary.api_secret=YOUR_CLOUD_SECRET
